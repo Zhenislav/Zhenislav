@@ -41,7 +41,15 @@
 
 ### Test cases 
 
-### Test-plans 
+
+ 
+### Test strategy
+
+### Test Design
+
+### Test-plans
+
+### Perfomnace test doc
 #### Applications:
 - [BattleOfTheWildWest]()
 - [Age Of Mystery]()
