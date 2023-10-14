@@ -69,11 +69,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-254ADC?style=for-the-badge&logo=CSS3&logoColor=2094EF)
 
 
-# Some examples Portfolio I helped create:
-[Dima Shlapak](https://github.com/DimaShlapak9)
-[Danylo Horbachov](https://github.com/GorDanil);
-[Karina Agadzhanian](https://github.com/Karina23456787)
-[Kirill Sharevich](https://github.com/Checamaro)
+### Some examples Portfolio I helped create:
+- [Dima Shlapak](https://github.com/DimaShlapak9) 
+- [Danylo Horbachov](https://github.com/GorDanil) 
+- [Karina Agadzhanian](https://github.com/Karina23456787) 
+- [Kirill Sharevich](https://github.com/Checamaro) 
 
 
 ## Follow Me
