@@ -41,11 +41,11 @@
 
 ### Test-plans 
 #### Applications:
-[BattleOfTheWildWest]();
-[Age Of Mystery]();
-[Chop chop]();
-[Little Shooter]();
-[World Race](;
+- [BattleOfTheWildWest]();
+- [Age Of Mystery]();
+- [Chop chop]();
+- [Little Shooter]();
+- [World Race]();
 
 ### Some examples Portfolio I helped create:
 - [Dima Shlapak](https://github.com/DimaShlapak9)  
