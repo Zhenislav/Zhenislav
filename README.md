@@ -18,34 +18,34 @@
 - [Chop chop]()
 
 #### Mobile applications: 
-[Little Shooter]();
-[World Race]();
-[War Number]();
+- [Little Shooter]()
+- [World Race]()
+- [War Number]()
 
 #### Web-sites:
-[Makes Scents]();
+- [Makes Scents]()
 
 ### Check-lists
 #### Applications:
-- [12]();
-- [Beast Traversing]();
-- [Demo]();
-- [Demons Despai]();
-- [Electric Trains]();
-- [GMTK Game Jam]();
-- [How To Dice Mushrooms]();
-- [Hyper Tear Demo]();
-- [The Adventures Of Leep And Bownd]();               
-- [Toziuha Night - Order of the Alchemists]();
-- [Upscaled_V0.2]();
+- [12]()
+- [Beast Traversing]()
+- [Demo]()
+- [Demons Despai]()
+- [Electric Trains]()
+- [GMTK Game Jam]()
+- [How To Dice Mushrooms]()
+- [Hyper Tear Demo]()
+- [The Adventures Of Leep And Bownd]()            
+- [Toziuha Night - Order of the Alchemists]()
+- [Upscaled_V0.2]()
 
 ### Test-plans 
 #### Applications:
-- [BattleOfTheWildWest]();
-- [Age Of Mystery]();
-- [Chop chop]();
-- [Little Shooter]();
-- [World Race]();
+- [BattleOfTheWildWest]()
+- [Age Of Mystery]()
+- [Chop chop]()
+- [Little Shooter]()
+- [World Race]()
 
 ### Some examples Portfolio I helped create:
 - [Dima Shlapak](https://github.com/DimaShlapak9)  
