@@ -17,35 +17,41 @@
 - [Age Of Mystery]()
 - [Chop chop]()
 
-####**Mobile application** 
+#### Mobile applications: 
 [Little Shooter]();
 [World Race]();
 [War Number]();
 
-- **Web-sites** -
+#### Web-sites:
 [Makes Scents]();
 
 ### Check-lists
-- **Applications** -
-[12]();
-[Beast Traversing]();
-[Demo]();
-[Demons Despai]();
-[Electric Trains]();
-[GMTK Game Jam]();
-[How To Dice Mushrooms]();
-[Hyper Tear Demo]();
-[The Adventures Of Leep And Bownd]();               
-[Toziuha Night - Order of the Alchemists]();
-[Upscaled_V0.2]();
+#### Applications:
+- [12]();
+- [Beast Traversing]();
+- [Demo]();
+- [Demons Despai]();
+- [Electric Trains]();
+- [GMTK Game Jam]();
+- [How To Dice Mushrooms]();
+- [Hyper Tear Demo]();
+- [The Adventures Of Leep And Bownd]();               
+- [Toziuha Night - Order of the Alchemists]();
+- [Upscaled_V0.2]();
 
 ### Test-plans 
-- **Applications** -
+#### Applications:
 [BattleOfTheWildWest]();
 [Age Of Mystery]();
 [Chop chop]();
 [Little Shooter]();
 [World Race](;
+
+### Some examples Portfolio I helped create:
+- [Dima Shlapak](https://github.com/DimaShlapak9)  
+- [Danylo Horbachov](https://github.com/GorDanil) 
+- [Karina Agadzhanian](https://github.com/Karina23456787) 
+- [Kirill Sharevich](https://github.com/Checamaro) 
 
 
 ## Languages and Tools
@@ -69,11 +75,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-254ADC?style=for-the-badge&logo=CSS3&logoColor=2094EF)
 
 
-### Some examples Portfolio I helped create:
-- [Dima Shlapak](https://github.com/DimaShlapak9)  
-- [Danylo Horbachov](https://github.com/GorDanil) 
-- [Karina Agadzhanian](https://github.com/Karina23456787) 
-- [Kirill Sharevich](https://github.com/Checamaro) 
 
 
 ## Follow Me
