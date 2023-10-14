@@ -8,16 +8,16 @@
 
 
 
-# My Portfolio 
+## My Portfolio 
 
 ### Bug-reports 
 
-- **PC application** -
-[BattleOfTheWildWest]();
-[Age Of Mystery]();
-[Chop chop]();
+##### PC applications:
+- [BattleOfTheWildWest]()
+- [Age Of Mystery]()
+- [Chop chop]()
 
-- **Mobile application** -
+####**Mobile application** 
 [Little Shooter]();
 [World Race]();
 [War Number]();
