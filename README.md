@@ -39,6 +39,8 @@
 - [Toziuha Night - Order of the Alchemists]()
 - [Upscaled_V0.2]()
 
+### Test cases 
+
 ### Test-plans 
 #### Applications:
 - [BattleOfTheWildWest]()
@@ -46,6 +48,10 @@
 - [Chop chop]()
 - [Little Shooter]()
 - [World Race]()
+
+### Mind maps
+
+### 
 
 ### Some examples Portfolio I helped create:
 - [Dima Shlapak](https://github.com/DimaShlapak9)  
