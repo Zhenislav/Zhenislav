@@ -2,23 +2,26 @@
 ![Header](https://github.com/Zhenislav/Zhenislav/assets/86875785/1e2cc84a-e35b-420c-92bc-3ffd9bef8e27)!
 
 
-
-
-
 ## About me
 > 
 
-# Portfolio 
+
+
+
+# My Portfolio 
 
 ### Bug-reports 
+
 - **PC application** -
 [BattleOfTheWildWest]();
 [Age Of Mystery]();
 [Chop chop]();
+
 - **Mobile application** -
 [Little Shooter]();
 [World Race]();
 [War Number]();
+
 - **Web-sites** -
 [Makes Scents]();
 
@@ -66,6 +69,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-254ADC?style=for-the-badge&logo=CSS3&logoColor=2094EF)
 
 
+# Some examples Portfolio I helped create:
+[Dima Shlapak](https://github.com/DimaShlapak9)
+[Danylo Horbachov](https://github.com/GorDanil);
+[Karina Agadzhanian](https://github.com/Karina23456787)
+[Kirill Sharevich](https://github.com/Checamaro)
 
 
 ## Follow Me
