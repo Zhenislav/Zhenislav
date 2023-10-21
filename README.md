@@ -14,12 +14,12 @@
 
 ### Bug-reports 
 
-##### PC applications:
+##### PC games:
 - [BattleOfTheWildWest]()
 - [Age Of Mystery]()
 - [Chop chop]()
 
-#### Mobile applications: 
+#### Mobile games: 
 - [Little Shooter]()
 - [World Race]()
 - [War Number]()
@@ -28,20 +28,30 @@
 - [Makes Scents]()
 
 ### Check-lists
-#### Applications:
-- [12]()
+#### PC Games:
+- [War Thunder]()
 - [Beast Traversing]()
-- [Demo]()
-- [Demons Despai]()
-- [Electric Trains]()
-- [GMTK Game Jam]()
-- [How To Dice Mushrooms]()
-- [Hyper Tear Demo]()
-- [The Adventures Of Leep And Bownd]()            
-- [Toziuha Night - Order of the Alchemists]()
-- [Upscaled_V0.2]()
+
+#### Mobile games:
+- []()
+- []()
+
+#### Web-sites:
+
+  
+
+
 
 ### Test cases 
+#### PC Games:
+- [War Thunder]()
+- [Beast Traversing]()
+
+#### Mobile games:
+- []()
+- []()
+
+#### Web-sites:
 
 
  
@@ -51,13 +61,10 @@
 
 ### Test-plans
 
-### Perfomnace test doc
+### Perfomnance test doc
 #### Applications:
 - [BattleOfTheWildWest]()
 - [Age Of Mystery]()
-- [Chop chop]()
-- [Little Shooter]()
-- [World Race]()
 
 ### Mind maps
 
@@ -67,7 +74,8 @@
 - [Dima Shlapak](https://github.com/DimaShlapak9)  
 - [Danylo Horbachov](https://github.com/GorDanil) 
 - [Karina Agadzhanian](https://github.com/Karina23456787) 
-- [Kirill Sharevich](https://github.com/Checamaro) 
+- [Kirill Sharevich](https://github.com/Checamaro)
+- [Bohdan Holiachenko](https://github.com/BohdanHoliachenko)
 
 
 ## Languages and Tools
